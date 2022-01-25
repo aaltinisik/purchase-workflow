@@ -23,6 +23,7 @@ setuptools.setup(
         'odoo12-addon-purchase_exception',
         'odoo12-addon-purchase_force_invoiced',
         'odoo12-addon-purchase_invoice_plan',
+        'odoo12-addon-purchase_invoice_plan_deposit',
         'odoo12-addon-purchase_landed_cost',
         'odoo12-addon-purchase_last_price_info',
         'odoo12-addon-purchase_line_procurement_group',
@@ -44,6 +45,7 @@ setuptools.setup(
         'odoo12-addon-purchase_order_line_stock_available',
         'odoo12-addon-purchase_order_product_recommendation',
         'odoo12-addon-purchase_order_product_recommendation_brand',
+        'odoo12-addon-purchase_order_product_recommendation_forecast',
         'odoo12-addon-purchase_order_product_recommendation_secondary_unit',
         'odoo12-addon-purchase_order_secondary_unit',
         'odoo12-addon-purchase_order_type',
@@ -76,5 +78,6 @@ setuptools.setup(
     classifiers=[
         'Programming Language :: Python',
         'Framework :: Odoo',
+        'Framework :: Odoo :: 12.0',
     ]
 )

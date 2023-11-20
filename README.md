@@ -24,6 +24,8 @@ addon | version | maintainers | summary
 [procurement_purchase_no_grouping](procurement_purchase_no_grouping/) | 12.0.2.0.1 |  | Procurement Purchase No Grouping
 [product_form_purchase_link](product_form_purchase_link/) | 12.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
 [product_supplier_code_purchase](product_supplier_code_purchase/) | 12.0.1.0.0 |  | This module adds to the purchase order line the supplier code defined in the product.
+[product_supplierinfo_qty_multiplier](product_supplierinfo_qty_multiplier/) | 12.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Product supplierinfo qty multiplier
+[purchase_add_products_from_bom](purchase_add_products_from_bom/) | 12.0.1.0.0 | [![mbcosta](https://github.com/mbcosta.png?size=30px)](https://github.com/mbcosta) | Purchase - Add Products from BoM
 [purchase_allowed_product](purchase_allowed_product/) | 12.0.1.1.0 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_analytic_global](purchase_analytic_global/) | 12.0.1.0.0 |  | Purchase - Analytic Account Global
 [purchase_blanket_order](purchase_blanket_order/) | 12.0.1.0.0 |  | Purchase Blanket Orders
@@ -87,6 +89,7 @@ addon | version | maintainers | summary
 [purchase_tier_validation](purchase_tier_validation/) | 12.0.1.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 12.0.1.1.0 |  | Manage triple discount on purchase order lines
 [purchase_work_acceptance](purchase_work_acceptance/) | 12.0.1.1.1 |  | Purchase Work Acceptance
+[purchase_work_acceptance_evaluation](purchase_work_acceptance_evaluation/) | 12.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Work Acceptance Evaluation
 [subcontracted_service](subcontracted_service/) | 12.0.1.0.2 |  | Subcontracted service
 [supplier_calendar](supplier_calendar/) | 12.0.1.0.1 | [![NuriaMForgeFlow](https://github.com/NuriaMForgeFlow.png?size=30px)](https://github.com/NuriaMForgeFlow) | Supplier Calendar
 

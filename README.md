@@ -54,12 +54,13 @@ addon | version | maintainers | summary
 [purchase_no_rfq](purchase_no_rfq/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Purchase Order - No Request For Quotation
 [purchase_only_by_packaging](purchase_only_by_packaging/) | 16.0.1.0.1 |  | Manage purchase of packaging
 [purchase_open_qty](purchase_open_qty/) | 16.0.3.0.0 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+[purchase_order_approval_block](purchase_order_approval_block/) | 16.0.1.0.0 |  | Purchase Order Approval Block
 [purchase_order_approved](purchase_order_approved/) | 16.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 16.0.1.0.0 |  | Archive Purchase Orders
 [purchase_order_downpayment](purchase_order_downpayment/) | 16.0.1.0.0 |  | Allow to add payments from Purchase order view
 [purchase_order_general_discount](purchase_order_general_discount/) | 16.0.1.0.0 |  | General discount per purchase order
 [purchase_order_hide_receipt_status](purchase_order_hide_receipt_status/) | 16.0.1.0.1 |  | Purchase Order Hide Receipt Status
-[purchase_order_line_menu](purchase_order_line_menu/) | 16.0.2.1.0 |  | Adds Purchase Order Lines Menu
+[purchase_order_line_menu](purchase_order_line_menu/) | 16.0.2.1.1 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_receipt_status](purchase_order_line_receipt_status/) | 16.0.1.0.0 |  | Manage customizations on purchase order line
 [purchase_order_line_sequence](purchase_order_line_sequence/) | 16.0.1.0.0 |  | Adds sequence to PO lines and propagates it toInvoice lines and Stock Moves
 [purchase_order_line_stock_available](purchase_order_line_stock_available/) | 16.0.1.0.0 |  | Purchase order line stock available
